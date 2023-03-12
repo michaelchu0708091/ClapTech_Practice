@@ -43,6 +43,7 @@ Then open browser with http://127.0.0.1
 
 - Drag and drop: Open drag to browser
 - Live-server: goto http://127.0.0.1/index.html
+- After merging to `/main` branch, you can see the change appears in https://lemon-water-089477600.2.azurestaticapps.net/index.html
 
 ## Authors <a name = "Authors"></a>
 - Stanley Yu
